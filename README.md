@@ -13,16 +13,40 @@
 # Summary
 
 - [Python](#Python)
-  - [About](#Python)
-  - [Status](#Python)
-  - [Instalation](#Python)
-  - [Running](#Python)
+  - [Status](###Status)
+  - [Installation](###Installation)
+  - [Running](###Running)
 - [JavaScript](#Python)
-  - [About](#Python)
   - [Status](#Python)
-  - [Instalation](#Python)
+  - [Installation](#Python)
   - [Running](#Python)
 
-# Python:
+# Python 🐍:
 
-✔️Status: concluded
+<p align="justify">With the python language, the "pygame" library was used to create the screen and most of the game's elements. The idea was to create a snake using a vector. My main obstacle was the collisions, I solved this point by mapping the positioning of the elements on screen.</p>
+
+### Status:
+
+<p>Finished ✅</p>
+
+### Installation: 🛠️
+
+Krapper requires [`python`](https://www.pytho.org/downloads/) V3.8+ to run.
+
+First you will need to install the libraries:
+
+`Execute` this command in windows prompt `CMD` or `BASH` after installed python:
+
+```bash
+$ pip install -r requirements.txt
+```
+
+<p align="justify">This will install all librarys necessarys to run SnakeGame! After that you already can run the game! 😊.</p>
+
+### Running: 🏃
+
+To `Run` the game just do:
+
+```bash
+$ python game.py
+```
