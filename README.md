@@ -31,7 +31,7 @@
 
 ### Installation: 🛠️
 
-Krapper requires [`python`](https://www.pytho.org/downloads/) V3.8+ to run.
+Krapper requires [`python`](https://www.python.org/downloads/) V3.8+ to run.
 
 First you will need to install the libraries:
 
