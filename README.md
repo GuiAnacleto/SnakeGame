@@ -18,7 +18,6 @@
   - [Running](###Running)
 - [JavaScript](#Python)
   - [Status](#Python)
-  - [Installation](#Python)
   - [Running](#Python)
 
 # Python 🐍:
@@ -50,3 +49,15 @@ To `Run` the game just do:
 ```bash
 $ python game.py
 ```
+
+# JavaScript 🟨:
+
+<p align="justify">With javascript it is basically a code that draws and erases the snake along the way.</p>
+
+### Status:
+
+<p>Finished ✅</p>
+
+### Running: 🏃
+
+Just `Open` the game.html file:
